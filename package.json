@@ -1,0 +1,25 @@
+{
+  "name": "javascriptproject",
+  "version": "1.0.0",
+  "description": "This is my first javascript project. I'm not sure what it will be yet, but it will be something.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wrstz/JavaScriptProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wrstz/JavaScriptProject/issues"
+  },
+  "homepage": "https://github.com/Wrstz/JavaScriptProject#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
